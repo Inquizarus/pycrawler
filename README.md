@@ -1,1 +1,2 @@
-Just a simple boilerplate for my own fooling arounds
+# pycrawler
+Just a random crawler for improving my python knowledge
